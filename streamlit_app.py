@@ -1,4 +1,4 @@
-# app.py (Home + Navbar)
+# streamlit_app.py. (Home + Navbar)
 import nltk
 
 # download minimal data quietly if not present
